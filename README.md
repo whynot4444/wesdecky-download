@@ -10,7 +10,7 @@ Plugin [Decky Loader](https://decky.xyz) cho Steam Deck / SteamOS, gộp 3 công
 
 ## Tải về
 
-**[⬇ Tải wesdecky.zip (bản mới nhất)](https://github.com/whynot4444/wesdecky-download/releases/latest/download/wesdecky.zip)**
+**[⬇ Tải wesdecky.zip (bản mới nhất)](https://github.com/whynot4444/wesdecky-download/raw/main/wesdecky.zip)**
 
 ## Cài đặt ngay trên Steam Deck (Game Mode)
 
@@ -19,7 +19,7 @@ Plugin [Decky Loader](https://decky.xyz) cho Steam Deck / SteamOS, gộp 3 công
 3. Vào tab **Developer** → **Install Plugin From URL**, dán link:
 
    ```
-   https://github.com/whynot4444/wesdecky-download/releases/latest/download/wesdecky.zip
+   https://github.com/whynot4444/wesdecky-download/raw/main/wesdecky.zip
    ```
 
    Hoặc tải file zip về rồi chọn **Install Plugin from ZIP**.
